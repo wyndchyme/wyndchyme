@@ -1,4 +1,4 @@
-### Maintainer and sole developer of the Modernization MegaPack for Minecraft: New Nintendo 3DS Edition. 
+### Maintainer and developer of the Modernization MegaPack for Minecraft: New Nintendo 3DS Edition. 
 
 ### Creator of the Mega3DS GitHub organization and Minecraft 3DS modding news website.
 
