@@ -1,7 +1,9 @@
-### Maintainer and developer of the Modernization MegaPack for Minecraft: New Nintendo 3DS Edition. 
-
-### Creator of the Mega3DS GitHub organization and Minecraft 3DS modding news website.
-
+<div align="center">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyndchyme\&rank_icon=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyndchyme&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wyndchyme&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyndchyme&theme=ayu_mirage&utcOffset=8)
+
+## [Modernization MegaPack](https://github.com/wyndchyme/mc3ds-modern) | [Mega3DS](https://mega3ds.github.io/)
+</div>
